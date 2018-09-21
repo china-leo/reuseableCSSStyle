@@ -1,0 +1,78 @@
+/*
+First create by chenxiaoleizi
+2018.9.21
+*/
+
+/* 字体大小 */
+.fs12{
+    font-size: 12px;
+}
+.fs14{
+    font-size: 14px;
+}
+.fs16{
+    font-size: 16px;
+}
+
+/* 字体颜色 */
+
+/* 常用margin */
+.ml10{
+    margin-left: 10px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.mt10{
+    margin-top: 10px;
+}
+.mb10{
+    margin-bottom: 10px;
+}
+
+/* 常用padding值 */
+.pl{
+    padding-left: 10px;
+}
+.pr{
+    padding-right: 10px;
+}
+.pt{
+    padding-top: 10px;
+}
+.pb{
+    padding-bottom: 10px;
+}
+
+/* 盒子模型 */
+.box-sizing-border{
+    box-sizing: border-box;
+}
+
+/* float布局 */
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+
+/* flex布局 */
+.flex-center-between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-center-around{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* 定位 */
+.pr{
+    position: relative;
+}
+.pa{
+    position: absolute;
+}
