@@ -76,3 +76,17 @@ First create by chenxiaoleizi
 .pa{
     position: absolute;
 }
+.l10{
+    left: 10px;
+}
+
+
+/* verticle-align */
+.vam{
+    vertical-align: middle;
+}
+
+/* text-align */
+.tac{
+    text-align: center;
+}
